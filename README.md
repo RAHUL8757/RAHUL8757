@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Singh
 - 👀 I’m interested in Develop Mobile Application
-- 🌱 I’m currently React-Native project
+- 🌱 I’m currently working React-Native project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
